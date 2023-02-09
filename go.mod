@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/Shopify/sarama v1.26.4
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-redis/redis v6.15.8+incompatible
 	github.com/gorilla/websocket v1.4.2
 	github.com/jinzhu/gorm v1.9.12
